@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Course
+comment0.text=\r\n\ Name\:\ Au\ Sai\ Chun\r\n\ Student\ ID\:\ 21105253D\r\n
+comment1.params=a\ b
+comment1.target=Course(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Course\r\n
+comment2.params=
+comment2.target=void\ displaycourse()
+numComments=3
