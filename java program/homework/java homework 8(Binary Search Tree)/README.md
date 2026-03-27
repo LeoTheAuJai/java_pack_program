@@ -144,24 +144,3 @@ A path from the root to Peter is: George Micheal Tom Peter
 ```
 
 ---
-
-## 📝 對應 dataset 格式（合併版）
-
-如果你想在個人網站上用一張卡片展示所有 Java 作業：
-
-```javascript
-{
-    id: 18,
-    title: "Java 資料結構與物件導向作品集",
-    description: "涵蓋從基礎到進階的 Java 作業合集，包括時區轉換、形狀計算系統、Stack/Queue、二元搜尋樹等完整實作。",
-    technologies: ["Java", "OOP", "Data Structure", "BlueJ"],
-    githubUrl: "https://github.com/LeoTheAuJai/java_pack_program",
-    imageColor: "from-blue-500 to-indigo-400",
-    features: [
-        "香港時間轉倫敦時間轉換器 (時區轉換)",
-        "形狀計算系統 (抽象類別、介面、繼承)",
-        "Stack & Queue 實作 (泛型、LIFO、FIFO)",
-        "二元搜尋樹 (BST、遍歷、遞迴)"
-    ]
-}
-```
