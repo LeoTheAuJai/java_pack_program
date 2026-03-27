@@ -238,10 +238,3 @@ java MainClassName
 
 ---
 ```
-
----
-
-
----
-
-你可以直接將英文版放在 `java_pack_program/README.md`，中文版放在 `java_pack_program/README.zh.md`。這樣整個 Java 作品集就會有一個專業的總覽頁面，方便他人了解你的學習歷程！
