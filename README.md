@@ -3,7 +3,7 @@
 
 ## 📄 README.md (英文版)
 
-```markdown
+```markdown`
 # 🎓 Java Learning Portfolio
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
@@ -122,8 +122,8 @@ Feel free to reach out via [GitHub](https://github.com/LeoTheAuJai).
 ---
 
 ## 📄 README.zh.md (中文版)
-
-```markdown
+```
+```markdown```
 # 🎓 Java 學習作品集
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
