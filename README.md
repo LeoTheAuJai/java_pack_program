@@ -113,7 +113,7 @@ This repository is for educational purposes. See the `LICENSE` file for details.
 
 ## 📬 Contact
 
-Created by **Au Sai Chun (21105253D)**  
+Created by Au Sai Chun  
 Feel free to reach out via [GitHub](https://github.com/LeoTheAuJai).
 
 ---
@@ -233,7 +233,7 @@ java MainClassName
 
 ## 📬 聯絡我
 
-開發者：**區世俊 (21105253D)**  
+開發者：區世俊   
 歡迎透過 [GitHub](https://github.com/LeoTheAuJai) 與我聯繫。
 
 ---
