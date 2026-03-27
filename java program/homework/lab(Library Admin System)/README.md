@@ -225,24 +225,3 @@ Library Admin System/
 ```
 
 ---
-
-## 📝 對應 dataset 格式
-
-```javascript
-{
-    id: 19,
-    title: "Java 圖書館管理系統 (Library Admin System)",
-    description: "一個使用自訂資料結構（鏈結串列、佇列）實作的圖書館管理系統，支援書籍的增刪改查、檔案儲存與 GUI 介面。雙人協作完成。",
-    technologies: ["Java", "BlueJ", "GUI", "Data Structure"],
-    githubUrl: "https://github.com/LeoTheAuJai/java_pack_program/tree/main/java%20program/lab/LibraryAdminSystem",
-    imageColor: "from-amber-500 to-orange-500",
-    features: [
-        "自訂鏈結串列 (MyLinkedList) 實作",
-        "自訂佇列 (MyQueue) 實作",
-        "書籍增刪改查功能",
-        "GUI 圖形化介面",
-        "檔案儲存與載入 (data.txt)",
-        "雙人協作開發"
-    ]
-}
-```
